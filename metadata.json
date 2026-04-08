@@ -1,0 +1,5 @@
+{
+  "name": "LeanCalc - 科学减脂计算器",
+  "description": "一个专业的减脂规划工具，基于 Harris-Benedict 公式和瘦体重模型，帮助您科学计算每日热量摄入建议。",
+  "requestFramePermissions": []
+}
